@@ -1,4 +1,4 @@
-## [ESG 데이터 활용 개발자](https://esg-edu.github.io/Docs/)
+## [ESG 데이터 활용 AX Academy with AI Agent](https://esg-edu.github.io/Docs/)
 
 ## 🛠️ 기술 스택
 
